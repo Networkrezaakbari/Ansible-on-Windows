@@ -1,5 +1,7 @@
 ### Created by thopper91 (2017)
 ---
+hosts: all
+tasks:
 - name: Gather IP details
 #  config: '{{ playbook_dir }}/config.json'
   win_command: ipconfig
