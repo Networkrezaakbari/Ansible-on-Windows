@@ -1,5 +1,5 @@
 [windows]
-0.0.0.2
+192.168.45.1
 
 [localhost]
 localhost ansible_python_interpreter=python
